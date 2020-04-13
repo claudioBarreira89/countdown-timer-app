@@ -6,7 +6,8 @@
         "jsx": "react",
         "allowSyntheticDefaultImports": true,
         "allowJs": true,
-        "moduleResolution": "node"
+        "moduleResolution": "node",
+        "strictNullChecks": false
     },
     "include": ["src/**/*"],
     "exclude": ["node_modules"]

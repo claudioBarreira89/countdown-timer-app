@@ -1,7 +1,7 @@
 {
-    "name": "react-without-cra",
+    "name": "countdown-timer",
     "version": "1.0.0",
-    "description": "React project without create-react-app",
+    "description": "Countdown Timer",
     "scripts": {
         "start": "webpack-dev-server --mode development --open",
         "build": "webpack --mode production"
@@ -10,7 +10,7 @@
     "dependencies": {
         "react": "^16.2.0",
         "react-dom": "^16.2.0",
-        "styled-components": "^5.0.1",
+        "styled-components": "^5.1.0",
         "typescript": "^3.8.3"
     },
     "devDependencies": {
